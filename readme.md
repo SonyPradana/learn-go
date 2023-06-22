@@ -1,6 +1,7 @@
 # Belajar GO
 
 ## Belajar dari Documentasi
+source [dasar pemrograman golang](https://raw.githubusercontent.com/novalagung/dasarpemrogramangolang/ebooks/dasarpemrogramangolang.pdf) 🇮🇩
 - day 1
   - [x] variable
   - [x] condition (if, switch)
@@ -21,3 +22,7 @@
 ## Aturan
 - belum di cek berati belum paham 😅
 - commit message rule `[x/y] day z`, x/y rating kesulitan, z hari ke x
+
+## Weekly goals
+- week 1
+  - [ ] Consume api from `pulodev/pulodev-api` and customize console output (color etc)
