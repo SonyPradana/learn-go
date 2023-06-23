@@ -19,9 +19,15 @@ source [dasar pemrograman golang](https://raw.githubusercontent.com/novalagung/d
   - [x] basic function with retrun
   - [x] multy return di sebuah fungsi
 
+- day 3 (rest 0 day)
+  - [x] fungsi varadic (...) dan pengisiannya ()
+  - [x] short function
+  - [x] Immediately-Invoked Function Expression 
+  - [x] return as func
+
 ## Aturan
 - belum di cek berati belum paham 😅
-- commit message rule `[x/y] day z`, x/y rating kesulitan, z hari ke x
+- commit message rule `[x/y] day z`, x/y rating kepahaman, z hari ke x
 
 ## Weekly goals
 - week 1
